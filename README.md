@@ -11,4 +11,6 @@
 💬 Ask me about **Django, Python, Html, React, SQL** <br><br>
 📫 How to reach me **maheshwaranm75@gmail.com** <br><br>
 
+<br>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,flask,django,mysql,git)](https://skillicons.dev)
