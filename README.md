@@ -13,4 +13,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,flask,django,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,flask,django,mysql,git)](https://skillicons.dev)
+
